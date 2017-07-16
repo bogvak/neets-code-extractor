@@ -1,5 +1,5 @@
 # neets-code-extractor
-Simple help Python-scripted tool to work with Neets controllers project files
+Simple Python-scripted command tool to work with Neets controllers project files code parts.
 Currently only ***Delta project files*** are supported.
 
 ### Requirements
