@@ -18,7 +18,7 @@ After extracting code from Project Designer file you can:
 - and so on.
 
 ### Requirements and installation
-**Python**
+**Python**  
 Installing: https://www.python.org/downloads/
 Please use latest version that includes **PIP** package manager
 
