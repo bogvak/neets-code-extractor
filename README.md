@@ -2,7 +2,7 @@
 Simple Python-scripted command line tool to work with Neets controllers (http://www.neets.dk) project files system code parts.
 
 ### Why do we need it
-We're enjoying efforts that Neets does to make most convenient programming environment in the world - we're talking about Neets Project Designer software (http://www.neets.dk/products/neets-project-designer/88).
+We're enjoying efforts that Neets makes to provide convenient AV-controllers programming environment in the world - we're talking about Neets Project Designer software (http://www.neets.dk/products/neets-project-designer/88).
 They're trying to keep amount of programming job even for complicated installation and AV projects as little as possible.
 
 But anyway - for some project you will still need it.
