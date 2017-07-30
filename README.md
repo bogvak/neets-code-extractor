@@ -22,7 +22,7 @@ After extracting code from Project Designer file you can:
 Installing: https://www.python.org/downloads/
 Please use latest version that includes **PIP** package manager
 
-**lxml Python library** (http://lxml.de/)
+**lxml Python library** (http://lxml.de/)  
 The easiest way to install library - using PIP manager:
 ```shell
 X:\whatever_dir>pip install lxml
