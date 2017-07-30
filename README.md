@@ -46,7 +46,7 @@ X:\whatever_dir>python neets_extract.py -com neets_project_file.pdprj
 command `-com` is shortcut to 'compile', it will automatically look for `_system_code` catalog in the same directory with project file and include all parts from this catalog to source project file.
 Just to prevent corrupting of project file, script automatically back-ups original file in the same catalog with prefix _*.bk_.
 
-**Including external pieces of code to main code files**
+**Including external pieces of code to main code files**  
 You can include external pieces of code to you main code files (those are located in  `_system_code` catalog).
 To do this you need to make two things.
 1. You need to write following line to file where you'd like to include piece of code 
