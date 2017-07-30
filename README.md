@@ -19,7 +19,7 @@ After extracting code from Project Designer file you can:
 
 ### Requirements and installation
 **Python**  
-Installing: https://www.python.org/downloads/
+Installing: https://www.python.org/downloads/ 
 Please use latest version that includes **PIP** package manager
 
 **lxml Python library** (http://lxml.de/)  
