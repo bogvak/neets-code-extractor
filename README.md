@@ -24,7 +24,7 @@ Please use latest version that includes **PIP** package manager
 
 **lxml Python library** (http://lxml.de/)  
 The easiest way to install library - using PIP manager:
-```shell
+```dos
 X:\whatever_dir>pip install lxml
 ```
 
@@ -33,7 +33,7 @@ There are two possible commands so far.
 
 **Extract code from project file**
 ```dos
-X:\whatever_dir> python neets_extract.py -dec neets_project_file.pdprj
+X:\whatever_dir>python neets_extract.py -dec neets_project_file.pdprj
 ```
 command `-dec` is shortcut to 'decompile', it will extract all code parts from **SystemCode** to `_system_code` directory.
 
@@ -41,7 +41,7 @@ For more details about code extracting - please refer to a wiki page [https://gi
 
 **Compile code to project file**
 ```dos
-X:\whatever_dir> python neets_extract.py -com neets_project_file.pdprj
+X:\whatever_dir>python neets_extract.py -com neets_project_file.pdprj
 ```
 command `-com` is shortcut to 'compile', it will automatically look for `_system_code` catalog in the same directory with project file and include all parts from this catalog to source project file.
 Just to prevent corrupting of project file, script automatically back-ups original file in the same catalog with prefix _*.bk_.
