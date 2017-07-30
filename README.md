@@ -7,7 +7,7 @@ They're trying to keep amount of programming job even for complicated installati
 
 But anyway - for some project you will still need it.
 
-But if you dealt previously with professional IDE, you probably can find that as code editor Project Designer is not best application. So we're trying to make coding task with Project Designer a little bit easier.
+But if you dealt previously with professional IDE, you probably can find that as code editor Project Designer is not the best application. So we're trying to make coding task with Project Designer a little bit easier.
 
 After extracting code from Project Designer file you can:
 - use your favorite code editor like Sublime Text;
